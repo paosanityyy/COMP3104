@@ -7,6 +7,6 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": ["devops", "nodejs", "express", "web"],
-  "author": "Pao Casison",
+  "author": "Paolo Casison",
   "license": "ISC"
 }
