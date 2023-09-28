@@ -8,6 +8,6 @@
     "start": "node index.js"
   },
   "keywords": ["devops", "nodejs", "express", "web"],
-  "author": "Paolo Casison",
+  "author": "Pao Casison",
   "license": "ISC"
 }
