@@ -7,7 +7,15 @@
     "test": "echo \"Error: no test specified\"",
     "start": "node index.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paosanityyy/COMP3104.git"
+  },
   "keywords": ["devops", "nodejs", "express", "web"],
   "author": "Pao Casison",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/paosanityyy/COMP3104/issues"
+  },
+  "homepage": "https://github.com/paosanityyy/COMP3104#readme"
 }
