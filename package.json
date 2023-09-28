@@ -4,7 +4,7 @@
   "description": "- Paolo - Casison",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" ",
+    "test": "echo \"Error: no test specified\"",
     "start": "node index.js"
   },
   "keywords": ["devops", "nodejs", "express", "web"],
